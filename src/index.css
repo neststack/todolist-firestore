@@ -21,8 +21,6 @@
   box-sizing: border-box;
 }
 
-.todolist {
-}
 ::-webkit-scrollbar {
   width: 5px;
 }
